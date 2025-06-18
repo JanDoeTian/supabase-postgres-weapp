@@ -47,11 +47,6 @@
   "dependencies": {
     "@supabase/node-fetch": "git@github.com:JanDoeTian/supabsae-fetch-weapp.git"
   },
-  "pnpm": {
-    "overrides": {
-      "@supabase/node-fetch": "git@github.com:JanDoeTian/supabsae-fetch-weapp.git"
-    }
-  },
   "devDependencies": {
     "@types/jest": "^27.5.1",
     "cpy-cli": "^5.0.0",
