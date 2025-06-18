@@ -1,5 +1,5 @@
 node_modules
-dist
+
 docs/v2
 *.log
 
