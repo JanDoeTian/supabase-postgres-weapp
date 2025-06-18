@@ -1,7 +1,7 @@
 {
-  "name": "@supabase/postgrest-js",
-  "version": "0.0.0-automated",
-  "description": "Isomorphic PostgREST client",
+  "name": "@supabase/postgrest-js-weapp",
+  "version": "1.0.0",
+  "description": "Weapp PostgREST client",
   "keywords": [
     "postgrest",
     "supabase"
@@ -45,7 +45,7 @@
     "db:run": "cd test/db && docker compose up --detach && wait-for-localhost 3000"
   },
   "dependencies": {
-    "@supabase/node-fetch": "git@github.com:JanDoeTian/supabsae-fetch-weapp.git"
+    "@supabase/node-fetch-weapp": "git@github.com:JanDoeTian/supabsae-fetch-weapp.git"
   },
   "devDependencies": {
     "@types/jest": "^27.5.1",
