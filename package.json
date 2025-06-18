@@ -1,5 +1,5 @@
 {
-  "name": "@supabase/postgrest-js-weapp",
+  "name": "@supabase/postgrest-js",
   "version": "0.0.0-automated",
   "description": "Isomorphic PostgREST client",
   "keywords": [
