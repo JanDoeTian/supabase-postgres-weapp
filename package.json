@@ -45,7 +45,7 @@
     "db:run": "cd test/db && docker compose up --detach && wait-for-localhost 3000"
   },
   "dependencies": {
-    "@supabase/node-fetch": "^2.6.14"
+    "@supabase/node-fetch": "git@github.com:JanDoeTian/supabsae-fetch-weapp.git"
   },
   "devDependencies": {
     "@types/jest": "^27.5.1",
